@@ -1,3 +1,3 @@
 import os
-os.environ["TOKEN_BetBot"] = "a"
-os.environ['whitelist'] = 'a'
+os.environ["TOKEN_BetBot"] = "b"
+os.environ['whitelist'] = 'b'
