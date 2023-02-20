@@ -15,7 +15,7 @@ PORT = int(os.environ.get('PORT', '8443'))
 whitelist = os.environ['whitelist'].split(",")
 importo_puntata = 400
 rendimento = 4
-wait_timer = 5
+wait_timer = 10
 timer_seconds = 60
 last_bet = ''
 
